@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="mekacorp-banner.png" alt="Mekacorp banner" width="800" />
+  <img src="../mekacorp-banner.png" alt="Mekacorp banner" width="800" />
 </p>
 
 # Mekacorp
